@@ -59,7 +59,7 @@ const UserService = {
 				["cum laude", "with honor", 5],
 				["curriculum vitae", "course of life", 6],
 				["deus ex machina", "God from the machine", 7],
-				["emeritus", "having served one's time", 8],
+				["emeritus", "having served your time", 8],
 				["ex nihilo", "out of nothing", 9],
 				["magnum opus", "great work", 10],
 				["in vitro", "in glass", null],

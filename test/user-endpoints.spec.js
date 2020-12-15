@@ -190,7 +190,7 @@ describe("User Endpoints", function () {
 							original: "deus ex machina",
 							translation: "God from the machine",
 						},
-						{ original: "emeritus", translation: "having served one's time" },
+						{ original: "emeritus", translation: "having served your time" },
 						{ original: "ex nihilo", translation: "out of nothing" },
 						{ original: "magnum opus", translation: "great work" },
 						{ original: "in vitro", translation: "in glass" },

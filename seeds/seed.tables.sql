@@ -27,7 +27,7 @@ VALUES
   (4, 1, 'cum laude', 'with honor', 5),
   (5, 1, 'curriculum vitae', 'course of life', 6),
   (6, 1, 'deus ex machina', 'God from the machine', 7),
-  (7, 1, 'emeritus', 'having served one''s time', 8),
+  (7, 1, 'emeritus', 'having served your time', 8),
   (8, 1, 'ex nihilo', 'out of nothing', 9),
   (9, 1, 'magnum opus', 'great work', 10),
   (10, 1, 'in vitro', 'in glass', null);
